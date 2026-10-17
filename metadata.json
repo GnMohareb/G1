@@ -1,0 +1,8 @@
+{
+  "name": "Remix G1 Ready Ontario",
+  "description": "Comprehensive Ontario G1 practice test and study guide for driver licensing preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
