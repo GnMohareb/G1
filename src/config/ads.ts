@@ -9,8 +9,8 @@
  * 5. Verify the domain is approved in your Google AdSense console.
  */
 
-// Placeholder publisher ID. AdSlot component will render nothing while this is placeholder or ADS_ENABLED is false.
-export const ADSENSE_CLIENT_ID = 'ca-pub-XXXXXXXXXXXXXXXX';
+// Publisher ID supplied by the site owner; confirm it matches AdSense before enabling monetized ad slots.
+export const ADSENSE_CLIENT_ID = 'ca-pub-6899118382012296';
 
 export const AD_SLOTS = {
   homeBanner: '1234567890',
@@ -19,5 +19,5 @@ export const AD_SLOTS = {
   catalogFooter: '4567890123',
 } as const;
 
-// Master switch. Must be explicitly set to true by publisher after filling in valid IDs.
+// Ads remain disabled until AdSense approval and actual ad unit IDs are configured.
 export const ADS_ENABLED = false;
