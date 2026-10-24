@@ -1,4 +1,1 @@
-# Google AdSense ads.txt placeholder
-# Replace with your authorized digital seller entry when approved by Google AdSense.
-# Example:
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-6899118382012296, DIRECT, f08c47fec0942fa0
